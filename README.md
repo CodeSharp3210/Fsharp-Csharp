@@ -1,2 +1,2 @@
 # Fsharp-Csharp
-F# uguale a C#
+Prova F#
